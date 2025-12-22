@@ -1,0 +1,82 @@
+Samsung
+Samsung Galaxy A10s General: 100 | Red Dot: 98 | 2x: 95 | 4x: 90 | Fire: 48% | DPI: 500
+
+Samsung Galaxy A20s General: 100 | Red Dot: 95 | 2x: 93 | 4x: 90 | Fire: 50% | DPI: 550
+
+Samsung Galaxy A02s General: 100 | Red Dot: 99 | 2x: 98 | 4x: 95 | Fire: 40% | DPI: 450
+
+Samsung Galaxy A03s General: 100 | Red Dot: 98 | 2x: 96 | 4x: 92 | Fire: 42% | DPI: 460
+
+Samsung Galaxy A12 General: 100 | Red Dot: 97 | 2x: 95 | 4x: 92 | Fire: 45% | DPI: 480
+
+Samsung Galaxy A13 General: 98 | Red Dot: 94 | 2x: 92 | 4x: 90 | Fire: 50% | DPI: 500
+
+Samsung Galaxy A21s General: 99 | Red Dot: 95 | 2x: 90 | 4x: 88 | Fire: 46% | DPI: 600
+
+Samsung Galaxy A30 General: 100 | Red Dot: 95 | 2x: 92 | 4x: 88 | Fire: 48% | DPI: 520
+
+Samsung Galaxy A50 General: 98 | Red Dot: 90 | 2x: 88 | 4x: 85 | Fire: 50% | DPI: 480
+
+Samsung Galaxy A51 General: 95 | Red Dot: 90 | 2x: 88 | 4x: 85 | Fire: 52% | DPI: 480
+
+Samsung Galaxy A71 General: 92 | Red Dot: 88 | 2x: 85 | 4x: 80 | Fire: 55% | DPI: 450
+
+Samsung Galaxy M11 General: 100 | Red Dot: 96 | 2x: 94 | 4x: 90 | Fire: 47% | DPI: 520
+
+Xiaomi / Redmi / POCO
+Redmi Note 8 General: 96 | Red Dot: 92 | 2x: 90 | 4x: 88 | Fire: 45% | DPI: 460
+
+Redmi Note 9 General: 98 | Red Dot: 95 | 2x: 92 | 4x: 90 | Fire: 48% | DPI: 490
+
+Redmi 9 General: 100 | Red Dot: 98 | 2x: 95 | 4x: 93 | Fire: 50% | DPI: 450
+
+Redmi 9A General: 100 | Red Dot: 100 | 2x: 98 | 4x: 95 | Fire: 55% | DPI: 440
+
+Redmi 9C General: 100 | Red Dot: 100 | 2x: 98 | 4x: 95 | Fire: 55% | DPI: 440
+
+Redmi 10C General: 97 | Red Dot: 94 | 2x: 92 | 4x: 90 | Fire: 48% | DPI: 480
+
+Redmi Note 10 General: 94 | Red Dot: 90 | 2x: 88 | 4x: 85 | Fire: 45% | DPI: 480
+
+Redmi Note 11 General: 95 | Red Dot: 91 | 2x: 89 | 4x: 86 | Fire: 46% | DPI: 500
+
+POCO M3 General: 98 | Red Dot: 94 | 2x: 92 | 4x: 90 | Fire: 49% | DPI: 460
+
+POCO X3 Pro General: 90 | Red Dot: 85 | 2x: 80 | 4x: 75 | Fire: 50% | DPI: 420
+
+Infinix
+Infinix Hot 8 General: 100 | Red Dot: 100 | 2x: 95 | 4x: 92 | Fire: 40% | DPI: 440
+
+Infinix Hot 9 General: 100 | Red Dot: 100 | 2x: 95 | 4x: 92 | Fire: 40% | DPI: 440
+
+Infinix Hot 10 General: 100 | Red Dot: 100 | 2x: 95 | 4x: 92 | Fire: 40% | DPI: 440
+
+Infinix Smart 5 General: 100 | Red Dot: 100 | 2x: 98 | 4x: 95 | Fire: 38% | DPI: 400
+
+Infinix Smart 6 General: 100 | Red Dot: 100 | 2x: 98 | 4x: 95 | Fire: 38% | DPI: 400
+
+Infinix Note 10 General: 95 | Red Dot: 90 | 2x: 88 | 4x: 85 | Fire: 50% | DPI: 480
+
+Infinix Note 11 General: 95 | Red Dot: 90 | 2x: 88 | 4x: 85 | Fire: 50% | DPI: 480
+
+Realme / Oppo
+Realme C11 General: 100 | Red Dot: 96 | 2x: 94 | 4x: 90 | Fire: 50% | DPI: 450
+
+Realme C15 General: 100 | Red Dot: 96 | 2x: 94 | 4x: 90 | Fire: 50% | DPI: 450
+
+Realme C21Y General: 98 | Red Dot: 95 | 2x: 92 | 4x: 88 | Fire: 48% | DPI: 470
+
+Realme C35 General: 98 | Red Dot: 95 | 2x: 92 | 4x: 88 | Fire: 48% | DPI: 470
+
+Oppo A15 General: 100 | Red Dot: 98 | 2x: 95 | 4x: 92 | Fire: 45% | DPI: 500
+
+Oppo A16 General: 100 | Red Dot: 98 | 2x: 95 | 4x: 92 | Fire: 45% | DPI: 500
+
+Oppo A53 General: 97 | Red Dot: 93 | 2x: 90 | 4x: 88 | Fire: 47% | DPI: 480
+
+Oppo A54 General: 97 | Red Dot: 93 | 2x: 90 | 4x: 88 | Fire: 47% | DPI: 480
+
+Huawei
+Huawei Y7 Prime General: 100 | Red Dot: 95 | 2x: 92 | 4x: 90 | Fire: 52% | DPI: 450
+
+Huawei Y9 Prime General: 95 | Red Dot: 90 | 2x: 88 | 4x: 85 | Fire: 50% | DPI: 460
