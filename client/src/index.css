@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@400;500;600;700;800&family=Rajdhani:wght@400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Gamer Red Aesthetic - Dark Mode Default */
+  --font-display: 'Oxanium', display;
+  --font-body: 'Rajdhani', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Base Colors - Dark & Moody */
+  --background: 240 10% 4%;
+  --foreground: 0 0% 95%;
+
+  /* Primary - Neon Red */
+  --primary: 0 100% 63%;
+  --primary-foreground: 0 0% 100%;
+
+  /* Secondary - Dark Metal */
+  --secondary: 240 6% 10%;
+  --secondary-foreground: 0 0% 90%;
+
+  /* Muted */
+  --muted: 240 6% 15%;
+  --muted-foreground: 240 5% 65%;
+
+  /* Accent - Cyber Red */
+  --accent: 0 100% 50%;
+  --accent-foreground: 0 0% 100%;
+
+  /* Destructive */
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 0 0% 100%;
+
+  /* Card */
+  --card: 240 10% 8%;
+  --card-foreground: 0 0% 95%;
+  --card-border: 0 100% 63%;
+
+  /* Popover */
+  --popover: 240 10% 8%;
+  --popover-foreground: 0 0% 95%;
+  --popover-border: 0 100% 63%;
+
+  /* Sidebar */
+  --sidebar: 240 10% 8%;
+  --sidebar-foreground: 0 0% 95%;
+  --sidebar-border: 240 6% 20%;
+  --sidebar-primary: 0 100% 63%;
+  --sidebar-primary-foreground: 0 0% 100%;
+  --sidebar-accent: 0 100% 50%;
+  --sidebar-accent-foreground: 0 0% 100%;
+  --sidebar-ring: 0 100% 63%;
+
+  /* Borders & Inputs */
+  --border: 240 6% 20%;
+  --input: 240 6% 20%;
+  --ring: 0 100% 63%;
+
+  --radius: 0.25rem;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-primary/30 selection:text-primary-foreground;
+    font-family: var(--font-body);
+    background-image: 
+      radial-gradient(circle at 50% 0%, rgba(255, 0, 0, 0.15), transparent 40%),
+      linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.8)),
+      url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ff0000' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    @apply font-bold tracking-tight uppercase;
+  }
+}
+
+@layer utilities {
+  .text-shadow-glow {
+    text-shadow: 0 0 20px rgba(255, 0, 0, 0.5);
+  }
+  
+  .box-glow {
+    box-shadow: 0 0 20px rgba(255, 0, 0, 0.15);
+  }
+
+  .clip-diagonal {
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 90% 100%, 0 100%);
+  }
+
+  .clip-diagonal-t {
+    clip-path: polygon(10% 0, 100% 0, 100% 100%, 0 100%, 0 15%);
+  }
+
+  .cyber-border {
+    position: relative;
+  }
+  
+  .cyber-border::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(to bottom, transparent, var(--primary), transparent);
+    opacity: 0.5;
+  }
+}
